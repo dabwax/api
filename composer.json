@@ -1,0 +1,12 @@
+{
+    "name": "lhas/api",
+    "require": {
+        "slim/slim": "^2.6"
+    },
+    "authors": [
+        {
+            "name": "lhas",
+            "email": "luizhrqas@gmail.com"
+        }
+    ]
+}
